@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dominikzz
 - 👀 I’m interested in learning to code and making new friends.
-- 🌱 I’m currently learning Flutter/dart and have some knowlege in python.
+- 🌱 I’m currently learning HTML,CSS and JS.
 - 📫 How to reach me - Dominiks Meksh#0990 - Discord
 
 <!---
